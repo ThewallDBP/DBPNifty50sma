@@ -1,1 +1,1 @@
-pip install yfinance pandas tabulate
+install yfinance pandas tabulate
